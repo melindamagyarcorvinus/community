@@ -1,5 +1,4 @@
-# Kódmelléklet: Felhasználói interakciók és közösségi dinamikák elemzése és modellezése a virtuális térben
-
+# Kódmelléklet
 Ez a repository a "Felhasználói interakciók és közösségi dinamikák elemzése és modellezése a virtuális térben" című dolgozathoz tartozó kódmellékletet tartalmazza. A kódok segítségével a dolgozatban tárgyalt adatok elemzése és modellezése végezhető el.
 
 ## Mappaszerkezet
